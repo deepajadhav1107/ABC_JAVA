@@ -24,7 +24,7 @@ public class Employee {
     // Main method
     public static void main(String[] args) {
         // Creating an object of Employee
-        Employee emp1 = new Employee("Deepa", 101, 50000.0,"HUbbali");
+        Employee emp1 = new Employee("Deepa", 101, 50000.0,"Belagavi");
         emp1.displayInfo();
     }
 }
